@@ -1,0 +1,2 @@
+image_width,image_height,total_pixels,gpu_processing_ms,grayscale_kernel,sobel_edge_kernel
+2048,2048,4194304,0.294624,SUCCESS,SUCCESS

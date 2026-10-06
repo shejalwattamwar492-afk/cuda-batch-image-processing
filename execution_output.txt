@@ -1,0 +1,7 @@
+CUDA GPU Image Processing
+Image size: 2048 x 2048
+Total pixels: 4194304
+GPU processing time: 0.294624 ms
+Grayscale kernel: SUCCESS
+Sobel edge kernel: SUCCESS
+GPU image processing completed successfully.
